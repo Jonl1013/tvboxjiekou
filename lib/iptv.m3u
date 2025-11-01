@@ -1044,111 +1044,111 @@ http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv3HD/__op/def
 #EXTINF:-1 tvg-id="521" tvg-name="CCTV-3综艺" group-title="央视频道",CCTV-3综艺
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3$LR•IPV4•8『线路8』
 #EXTINF:-1 tvg-id="522" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$LR•IPV4•4『线路1』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-id="523" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
-http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•4『线路2』
+http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•3『线路2』
 #EXTINF:-1 tvg-id="524" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1762074000-1-770c30e91997db6e57a712d9760a0723-e92792cf70380a1e035f53be0be6c63a&yid=770c30e91997db6e57a712d9760a0723$LR•IPV4•4『线路3』
-#EXTINF:-1 tvg-id="525" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
-http://148.135.93.213:81/live.php?id=CCTV4$LR•IPV4•4『线路4』
-#EXTINF:-1 tvg-id="526" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+http://148.135.93.213:81/live.php?id=CCTV4$LR•IPV4•3『线路3』
+#EXTINF:-1 tvg-id="525" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$LR•IPV4•11『线路1』
-#EXTINF:-1 tvg-id="527" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="526" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际$LR•IPV4•11『线路2』
-#EXTINF:-1 tvg-id="528" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="527" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•11『线路3』
-#EXTINF:-1 tvg-id="529" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="528" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$LR•IPV4•11『线路4』
-#EXTINF:-1 tvg-id="530" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="529" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4$LR•IPV4•11『线路5』
-#EXTINF:-1 tvg-id="531" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="530" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://goo.bkpcp.top/mg/cctv4o$LR•IPV4•11『线路6』
-#EXTINF:-1 tvg-id="532" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="531" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://goo.bkpcp.top/mg/cctv4m$LR•IPV4•11『线路7』
-#EXTINF:-1 tvg-id="533" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="532" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$LR•IPV6•11『线路8』
-#EXTINF:-1 tvg-id="534" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="533" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2$LR•IPV6•11『线路9』
-#EXTINF:-1 tvg-id="535" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="534" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8$LR•IPV6•11『线路10』
-#EXTINF:-1 tvg-id="536" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
+#EXTINF:-1 tvg-id="535" tvg-name="CCTV-4" group-title="央视频道",CCTV-4
 https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8$LR•IPV4•11『线路11』
-#EXTINF:-1 tvg-id="537" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="536" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8$LR•IPV4•17『线路1』
-#EXTINF:-1 tvg-id="538" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="537" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://183.11.239.36:808/hls/22/index.m3u8$LR•IPV4•17『线路2』
-#EXTINF:-1 tvg-id="539" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="538" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://183.11.239.36:808/hls/77/index.m3u8$LR•IPV4•17『线路3』
-#EXTINF:-1 tvg-id="540" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="539" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://183.11.239.36:808/hls/67/index.m3u8$LR•IPV4•17『线路4』
-#EXTINF:-1 tvg-id="541" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="540" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://120.76.248.139/live/bfgd/4200000063.m3u8$LR•IPV4•17『线路5』
-#EXTINF:-1 tvg-id="542" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="541" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428$LR•IPV4•17『线路6』
-#EXTINF:-1 tvg-id="543" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="542" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际$LR•IPV4•17『线路7』
-#EXTINF:-1 tvg-id="544" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="543" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•17『线路8』
-#EXTINF:-1 tvg-id="545" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="544" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$LR•IPV4•17『线路9』
-#EXTINF:-1 tvg-id="546" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="545" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 https://smart.pendy.dpdns.org/Smart.php?id=cctv4$LR•IPV4•17『线路10』
-#EXTINF:-1 tvg-id="547" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="546" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://goo.bkpcp.top/mg/cctv4o$LR•IPV4•17『线路11』
-#EXTINF:-1 tvg-id="548" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="547" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://goo.bkpcp.top/mg/cctv4m$LR•IPV4•17『线路12』
-#EXTINF:-1 tvg-id="549" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="548" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://fm1077.serv00.net/Smart.php?id=cctv4$LR•IPV4•17『线路13』
-#EXTINF:-1 tvg-id="550" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="549" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://fm1077.serv00.net/Smart.php?id=Cctv4$LR•IPV4•17『线路14』
-#EXTINF:-1 tvg-id="551" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="550" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$LR•IPV6•17『线路15』
-#EXTINF:-1 tvg-id="552" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="551" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2$LR•IPV6•17『线路16』
-#EXTINF:-1 tvg-id="553" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-id="552" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8$LR•IPV6•17『线路17』
-#EXTINF:-1 tvg-id="554" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
+#EXTINF:-1 tvg-id="553" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?$LR•IPV6•2『线路1』
-#EXTINF:-1 tvg-id="555" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
+#EXTINF:-1 tvg-id="554" tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4$LR•IPV4•2『线路2』
-#EXTINF:-1 tvg-id="556" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-id="555" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 https://live.mxdyeah.top/live.php?id=CCTV4K$LR•IPV4•5『线路1』
-#EXTINF:-1 tvg-id="557" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-id="556" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://2123bpne7449.vicp.fun:8188/udp/239.93.57.42:5140$LR•IPV4•5『线路2』
-#EXTINF:-1 tvg-id="558" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-id="557" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://1752e145z8.vicp.fun:35455/gaoma/cctv4k.m3u8$LR•IPV4•5『线路3』
-#EXTINF:-1 tvg-id="559" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-id="558" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8$LR•IPV4•5『线路4』
-#EXTINF:-1 tvg-id="560" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
+#EXTINF:-1 tvg-id="559" tvg-name="CCTV-4K" group-title="央视频道",CCTV-4K
 http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631$LR•IPV4•5『线路5』
-#EXTINF:-1 tvg-id="561" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="560" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://183.222.242.31:8088/hls/4/index.m3u8$LR•IPV4•7『线路1』
-#EXTINF:-1 tvg-id="562" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="561" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 https://live.mxdyeah.top/live.php?id=cctv4HD$LR•IPV4•7『线路2』
-#EXTINF:-1 tvg-id="563" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="562" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/index.m3u8$LR•IPV6•7『线路3』
-#EXTINF:-1 tvg-id="564" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="563" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$LR•IPV4•7『线路4』
-#EXTINF:-1 tvg-id="565" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="564" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://120.40.39.246:352/newlive/live/hls/4/live.m3u8$LR•IPV4•7『线路5』
-#EXTINF:-1 tvg-id="566" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="565" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://sh.lnott.top:880/dx04.m3u8$LR•IPV4•7『线路6』
-#EXTINF:-1 tvg-id="567" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
+#EXTINF:-1 tvg-id="566" tvg-name="CCTV-4国际" group-title="央视频道",CCTV-4国际
 http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8$LR•IPV4•7『线路7』
-#EXTINF:-1 tvg-id="568" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="567" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://148.135.93.213/live.php?id=CCTV4$LR•IPV4•7『线路1』
-#EXTINF:-1 tvg-id="569" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="568" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8$LR•IPV4•7『线路2』
-#EXTINF:-1 tvg-id="570" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="569" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://ygbh.site/php/bfgd.php?id=063$LR•IPV4•7『线路3』
-#EXTINF:-1 tvg-id="571" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="570" tvg-name="CCTV4" group-title="央视频道",CCTV4
 https://cc06.tv12.xyz/4.m3u8$LR•IPV4•7『线路4』
-#EXTINF:-1 tvg-id="572" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="571" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://112.27.235.94:8000/hls/4/index.m3u8$LR•IPV4•7『线路5』
-#EXTINF:-1 tvg-id="573" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="572" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$LR•IPV4•7『线路6』
-#EXTINF:-1 tvg-id="574" tvg-name="CCTV4" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-id="573" tvg-name="CCTV4" group-title="央视频道",CCTV4
 http://t.061899.xyz/tl/dq.php?id=cctv4$LR•IPV4•7『线路7』
+#EXTINF:-1 tvg-id="574" tvg-name="CCTV-4K 高清" group-title="央视频道",CCTV-4K 高清
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1762077600-1-58f30919fac5a2c9d29422558a9e145f-6ac405b18f9fb455097f220c1036685d&yid=58f30919fac5a2c9d29422558a9e145f$LR•IPV4
 #EXTINF:-1 tvg-id="575" tvg-name="CCTV4K" group-title="央视频道",CCTV4K
 http://p.ytelc.com/169l/0/cctv.php?id=cctv4k$LR•IPV4
 #EXTINF:-1 tvg-id="576" tvg-name="CCTV-4欧洲" group-title="央视频道",CCTV-4欧洲
@@ -1551,18 +1551,18 @@ http://120.40.39.246:352/newlive/live/hls/8/live.m3u8$LR•IPV4•5『线路3』
 http://sh.lnott.top:880/dx07.m3u8$LR•IPV4•5『线路4』
 #EXTINF:-1 tvg-id="775" tvg-name="CCTV-7军事" group-title="央视频道",CCTV-7军事
 http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8$LR•IPV4•5『线路5』
-#EXTINF:-1 tvg-id="776" tvg-name="CCTV-8K 超高清" group-title="央视频道",CCTV-8K 超高清
-https://tv.cry33.com/ys4k.php?id=8k$LR•IPV4
-#EXTINF:-1 tvg-id="777" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="776" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$LR•IPV4•5『线路1』
-#EXTINF:-1 tvg-id="778" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="777" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
 http://218.13.14.6:60050/tsfile/live/1008_1.m3u8$LR•IPV4•5『线路2』
-#EXTINF:-1 tvg-id="779" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="778" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
 http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•5『线路3』
-#EXTINF:-1 tvg-id="780" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="779" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
 http://148.135.93.213:81/live.php?id=CCTV8$LR•IPV4•5『线路4』
-#EXTINF:-1 tvg-id="781" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="780" tvg-name="CCTV-8 电视剧" group-title="央视频道",CCTV-8 电视剧
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8$LR•IPV4•5『线路5』
+#EXTINF:-1 tvg-id="781" tvg-name="CCTV-8K 超高清" group-title="央视频道",CCTV-8K 超高清
+https://tv.cry33.com/ys4k.php?id=8k$LR•IPV4
 #EXTINF:-1 tvg-id="782" tvg-name="CCTV-8" group-title="央视频道",CCTV-8
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$LR•IPV4•11『线路1』
 #EXTINF:-1 tvg-id="783" tvg-name="CCTV-8" group-title="央视频道",CCTV-8
@@ -2398,9 +2398,9 @@ https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8$LR•IPV4•54『线路
 #EXTINF:-1 tvg-id="1198" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
 http://148.135.93.213:81/live.php?id=湖南卫视$LR•IPV4•54『线路54』
 #EXTINF:-1 tvg-id="1199" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•66『线路1』
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$LR•IPV4•66『线路1』
 #EXTINF:-1 tvg-id="1200" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$LR•IPV4•66『线路2』
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•66『线路2』
 #EXTINF:-1 tvg-id="1201" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$LR•IPV4•66『线路3』
 #EXTINF:-1 tvg-id="1202" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
